@@ -2,12 +2,14 @@
   "name": "frequency_counters_multiple_pointers",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "scripts": {
     "test": "jest"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "frequency_counters_multiple_pointers": "file:",
     "jest": "^29.7.0"
   }
 }
